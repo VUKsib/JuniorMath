@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Junior Math</string>
+    <string name="helloText">Привет, юный математик!</string>
+    <string name="HelloTextRules">
+        Данная игра предназначена для изучения арифметических и логических операций для младшего школьного возраста.\n
+        Игра усложняется по мере набора определенного количества очков.</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="nextcontinue">Продолжить</string>
+    <string name="less">&lt;</string>
+    <string name="equal">=</string>
+    <string name="more">&gt;</string>
+    <string name="rulesgame">
+        Сравни два примера и укажи верный ответ.\n
+        Для этого нужно нажать на соответствующий знак между ними.\n
+        Игра усложняется по мере набора очков.\n Твоя задача набрать 50 баллов.\n
+        За правильные ответы ты получаешь 1 балл.\n
+        За неправильные отнимается 3 балла, пока не будет 0.
+    </string>
+    <string name="rulesmain">БОЛЬШЕ, МЕНЬШЕ, РАВНО</string>
+    <string name="endgame">Поздравляем! Вы прошли игру!</string>
+    <string name="textend">
+        Вы набрали необходимое количество баллов.\n
+        На этом игра закончена,\n
+        но вы можете потренироваться, начав игру сначала.</string>
+</resources>
